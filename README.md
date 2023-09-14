@@ -1,16 +1,30 @@
-# projeto para escrita de README
+# indice 
+ [projeto para escrita de readm]
+ (#projeto-para-escrita-de-readme)
 
-projeto iniciado com a turma do 1 ANO C
+[descriçao](#descriçao)
+ [introduçao](#introduçao)
+[funcionalidades](#funcionalidade)
+[tecnologia utilizada](#recnologia-utilizadas)
+[fontes consultadas](#fontes-consultadas)
+[autores](#autores)
 
-## descriçao
+# projeto para escrita do readme 💡💡💡
+
+## descriçao🗒️🗒️
+ - breve descriçao
 
 ## introduçao
+- documentaçao de projeto readme
 
-## funcionalidades
+## funcionalidade 📉📉
+- aprendemos a forma correta de escrever um arquivo readme 
 
-### tecnologia utilizada
+## tecnologias utilizada 🛠️🛠️
+- Vscode; githib; one drives;
 
 ## fontes consultadas
+- Altura.com
 
 ## autores
-
+- Ana Beatriz,Naillim Novaski
